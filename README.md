@@ -1,4 +1,4 @@
-# Hey All my Buddy
+# Hey All my Buddy welcome to Project Development Agile (DA)
 
 ## Weekly Topic:
 This is the space where we add resources for continuous study and self-development:
