@@ -9,7 +9,7 @@ This is the space where we add resources for continuous study and self-developme
 
 ## Skills that value:
 - Merge and squash a feature brand into the main brand
-- git basic command
+- Git basic command
 
 ## Development Norm:
 - Platform: GitHub
@@ -17,11 +17,13 @@ This is the space where we add resources for continuous study and self-developme
 - Project: host on GitHub
 
 ## Project ideas:
-- Problem we are trying to solve: The lack or feel of disconnected when we are on our own over the remote connection and user experience. 
-Create a social platform on Vision Pro that we can communicate? 3 Dimension, Like a plugin for Facetime that we can see ourselves in the pics (Apple Vision Pro Platform)
-- Mapping problems and GIS problems that can work on multiple platform, and implement AI into it.
-- Creating the knowledge base and deploy it using AWS, GCP, or Azure 
-- Display your skill journals
+1. **Enhancing Remote Communication and User Experience:** Address the feeling of disconnection during remote interactions by creating a social platform on Apple Vision Pro. This platform will enable three-dimensional communication, integrating as a plugin for FaceTime to allow users to see themselves and others in a more immersive environment.
+
+2. **Cross-Platform GIS and Mapping Solutions with AI Integration:** Develop robust GIS and mapping solutions that are compatible with multiple platforms, incorporating AI to enhance functionality and user experience.
+
+3. **Knowledge Base Creation and Deployment:** Create and deploy a comprehensive knowledge base using cloud services such as AWS, GCP, or Azure. This knowledge base will facilitate easy access to information and improve organizational efficiency.
+
+4. **Effectiveness of Skill Journals:** Implement and display the effectiveness of skill journals, showcasing how they contribute to personal and professional development.
 
 ## Books
 - Design patterns: Elements of Reusable Object-oriented Software
