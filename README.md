@@ -4,8 +4,19 @@
 This is the space where we add resources for continuous study and self-development:
 - [ ] Recording 
 - [ ] Good night sleep
-- [ ] Bring some Problems
-- [ ] Share what we did last week in less than 5 minutes.
+- [ ] Solve some Problems
+- [ ] Share what we did last week in less than 5 minutes (Popcorn).
+
+## Technical Interview:
+- Solve 3 or more every week
+- Present by weekend by 10 minutes
+
+## Roadmap:
+|   | How To             | What To                  |
+|---|--------------------|--------------------------|
+| 1 | Pair               | Algorithm/Data_Structure |
+| 2 | Plan/Retro/Roadmap | Testing Methods          |
+| 3 | Communication      |                          |
 
 ## Skills that value:
 - Merge and squash a feature brand into the main brand

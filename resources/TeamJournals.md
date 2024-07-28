@@ -34,3 +34,15 @@
 ### Action Item:
 - [ ] Does ACC have a Server to deploy things? IT Friends? Library?
 - [ ] Storytelling workshop - Tim
+
+## Meeting on July 27, 2025:
+### Context:
+- Work on one coding challenges
+- Plan/Roadmap - GitHub
+- List of Exercises - GitHub
+- Identify Platform (Hackerrank, NeetCode, CodeForces, leetCode, Google, MS-FT, etc.)
+- Focus on Discussion/Explanation
+- At least 1 problem a day
+- Share learning on Saturday
+
+### Action Item:

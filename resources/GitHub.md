@@ -5,7 +5,6 @@
 - Git merge and squash a feature branch into the main branch
 - Git merge and squash the main branch itself
 
-
 ## GitHub Workflows:
 - What is it?
 - How to use it?
